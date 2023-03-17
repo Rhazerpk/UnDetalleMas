@@ -5081,43 +5081,6 @@
         }
       },
       {
-        "HashCode": -810038465,
-        "Kind": "Components.Component",
-        "Name": "UnDetalleMas.Client.App",
-        "AssemblyName": "UnDetalleMas.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UnDetalleMas.Client.App",
-          "Common.TypeNamespace": "UnDetalleMas.Client",
-          "Common.TypeNameIdentifier": "App"
-        }
-      },
-      {
-        "HashCode": -171216738,
-        "Kind": "Components.Component",
-        "Name": "UnDetalleMas.Client.App",
-        "AssemblyName": "UnDetalleMas.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UnDetalleMas.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "UnDetalleMas.Client.App",
-          "Common.TypeNamespace": "UnDetalleMas.Client",
-          "Common.TypeNameIdentifier": "App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1259813386,
         "Kind": "Components.Component",
         "Name": "UnDetalleMas.Client.Pages.Counter",
@@ -5427,6 +5390,43 @@
           "Common.TypeName": "UnDetalleMas.Client.Shared.NavMenu",
           "Common.TypeNamespace": "UnDetalleMas.Client.Shared",
           "Common.TypeNameIdentifier": "NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -810038465,
+        "Kind": "Components.Component",
+        "Name": "UnDetalleMas.Client.App",
+        "AssemblyName": "UnDetalleMas.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UnDetalleMas.Client.App",
+          "Common.TypeNamespace": "UnDetalleMas.Client",
+          "Common.TypeNameIdentifier": "App"
+        }
+      },
+      {
+        "HashCode": -171216738,
+        "Kind": "Components.Component",
+        "Name": "UnDetalleMas.Client.App",
+        "AssemblyName": "UnDetalleMas.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UnDetalleMas.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "UnDetalleMas.Client.App",
+          "Common.TypeNamespace": "UnDetalleMas.Client",
+          "Common.TypeNameIdentifier": "App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
